@@ -1,11 +1,9 @@
-/* ===== Basic Reset ===== */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* ===== Base Styles ===== */
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -21,7 +19,6 @@ body {
   padding: 20px;
 }
 
-/* ===== Header ===== */
 header {
   background: #003580;
   color: #fff;
@@ -50,7 +47,6 @@ nav a:hover {
   background: #003580;
 }
 
-/* ===== Sections ===== */
 section {
   margin: 20px 0;
   background: white;
@@ -58,7 +54,6 @@ section {
   border-radius: 8px;
 }
 
-/* ===== Property Cards ===== */
 .property {
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -81,7 +76,6 @@ section {
   color: #003580;
 }
 
-/* ===== Footer ===== */
 footer {
   background: #003580;
   color: white;
